@@ -4,4 +4,5 @@ project(sum_program C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(sum_program
-        main.c)
+        main.c
+        sum.c)
